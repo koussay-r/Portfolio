@@ -1,4 +1,4 @@
-simple responsive portfolio
+Simple responsive portfolio
 
 
 
